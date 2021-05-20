@@ -1,4 +1,0 @@
-C:\Users\Kzari\Desktop\sample2kawano\x64\Debug\sample2.exe
-C:\Users\Kzari\Desktop\sample2kawano - コピー\x64\Debug\sample2.exe
-C:\Users\Kzari\Desktop\当たり判定四角\x64\Debug\sample2.exe
-C:\Users\Kzari\Desktop\当たり判定四角 - コピー\x64\Debug\sample2.exe

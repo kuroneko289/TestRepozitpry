@@ -1,0 +1,12 @@
+﻿  GameBox.cpp
+  main.cpp
+C:\Users\Kzari\Desktop\当たり判定四角 - コピー\main.cpp(87,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Kzari\Desktop\当たり判定四角 - コピー\main.cpp(87,13): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Kzari\Desktop\当たり判定四角 - コピー\main.cpp(86,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Kzari\Desktop\当たり判定四角 - コピー\main.cpp(86,19): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Kzari\Desktop\当たり判定四角 - コピー\main.cpp(91,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Kzari\Desktop\当たり判定四角 - コピー\main.cpp(91,13): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Kzari\Desktop\当たり判定四角 - コピー\main.cpp(90,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Kzari\Desktop\当たり判定四角 - コピー\main.cpp(90,19): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  sample2.vcxproj -> C:\Users\Kzari\Desktop\当たり判定四角 - コピー\x64\Debug\sample2.exe
